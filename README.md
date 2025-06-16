@@ -44,7 +44,10 @@ This project demonstrates the design and comprehensive verification of a 6-bit A
 - Reset Agent Details: `/dv/agents/reset_agent/` (if present)
 
 ## 🤝 Contributions
-Worked on this project alongside my dear friend & colleague Youssef, here's his github, check him out! https://github.com/YoussefNasser11/YoussefNasser11
+Worked on this project alongside my dear friend & colleague Youssef, here's his github, check him out!
+<p align="center">
+https://github.com/YoussefNasser11/YoussefNasser11
+</p>
 
 Future Contributions, issues, and PRs are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
