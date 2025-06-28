@@ -82,6 +82,43 @@ Illustrations, block diagrams, and waveforms are provided for easy understanding
 
 ---
 
+## 🖼️ Visuals
+
+<p align="center">
+  <img src="https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA/raw/0f43578fdf34b5427cc8a124c46896d8b92e1a18/illustrations/ALU_AGENT_TLM_DIAGRAM.png" width="500" alt="ALU Agent TLM Diagram"/>
+  <br>
+  <i>ALU Agent TLM Diagram</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA/raw/0f43578fdf34b5427cc8a124c46896d8b92e1a18/illustrations/RST_AGENT_TLM_DIAGRAM.png" width="500" alt="Reset Agent TLM Diagram"/>
+  <br>
+  <i>Reset Agent TLM Diagram</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA/raw/0f43578fdf34b5427cc8a124c46896d8b92e1a18/illustrations/TLM_DIAGRAM_FOR_SCOREBOARD.png" width="500" alt="Scoreboard TLM Diagram"/>
+  <br>
+  <i>Scoreboard TLM Diagram</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA/raw/0f43578fdf34b5427cc8a124c46896d8b92e1a18/illustrations/random_test_waveform.png" width="500" alt="Random Test Waveform"/>
+  <br>
+  <i>Example Functional Simulation Waveform</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA/raw/0f43578fdf34b5427cc8a124c46896d8b92e1a18/illustrations/hier_picture.jpg" width="500" alt="UVM Testbench Hierarchy"/>
+  <br>
+  <i>UVM Testbench Hierarchy</i>
+</p>
+
+> _Want more visuals? See the full [illustrations folder](https://github.com/AbdelrahmanYassien11/Verification-of-6-bit-ALU-using-UVM-With-Asynchronous-Reset-Agent-SVA/tree/0f43578fdf34b5427cc8a124c46896d8b92e1a18/illustrations)._  
+> _Note: Only a selection of images is shown here, check the link above for all diagrams & screenshots._
+
+---
+
 ## 🤝 Contributors
 
 Worked on this project alongside my friend & colleague  
